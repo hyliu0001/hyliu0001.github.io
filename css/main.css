@@ -113,6 +113,11 @@ header {
   margin-top: -3%;
 }
 
+.gray-container img {
+  max-width: 100%;
+}
+
+
 .gray-container ul li:first-child {
   margin-bottom: 2em;
 }
